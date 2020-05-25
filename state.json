@@ -1,0 +1,57 @@
+{ 
+  "states":[
+  		{
+  			"name":"Alabama",
+  			"abbreviation":"AL",
+  			"area_codes":["205","251","256","334","938"]
+  		},
+  		{
+  			"name":"Alaska",
+  			"abbreviation":"AK",
+  			"area_codes":["907"]
+  		},
+  		{
+  			"name":"Arizona",
+  			"abbreviation":"AZ",
+  			"area_codes":["480","520","602","623","928"]
+  		},
+  		{
+  			"name":"Arkansas",
+  			"abbreviation":"AR",
+  			"area_codes":["479","501","870"]
+  		},
+  		{
+			"name":"California",
+  			"abbreviation":"CA",
+  			"area_codes":["473","502","850"]  			
+  		},
+  		{
+  			"name":"Jharkhand",
+  			"abbreviation":"JH",
+  			"area_codes":["419","551","892"]
+  		},
+  		{
+  			"name":"Karnataka",
+  			"abbreviation":"KA",
+  			"area_codes":["549","541","920"]
+  		},
+  		{
+  			"name":"Uttar Pradesh",
+  			"abbreviation":"UP",
+  			"area_codes":["949","233","156"]
+  		},
+  		{
+  			"name":"Bihar",
+  			"abbreviation":"BR",
+  			"area_codes":["378","823","736"]
+  		}
+
+  ]
+
+
+
+
+
+
+
+  }

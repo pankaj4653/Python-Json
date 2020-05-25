@@ -1,0 +1,40 @@
+{
+  "states": [
+    {
+      "name": "Alabama",
+      "abbreviation": "AL"
+    },
+    {
+      "name": "Alaska",
+      "abbreviation": "AK"
+    },
+    {
+      "name": "Arizona",
+      "abbreviation": "AZ"
+    },
+    {
+      "name": "Arkansas",
+      "abbreviation": "AR"
+    },
+    {
+      "name": "California",
+      "abbreviation": "CA"
+    },
+    {
+      "name": "Jharkhand",
+      "abbreviation": "JH"
+    },
+    {
+      "name": "Karnataka",
+      "abbreviation": "KA"
+    },
+    {
+      "name": "Uttar Pradesh",
+      "abbreviation": "UP"
+    },
+    {
+      "name": "Bihar",
+      "abbreviation": "BR"
+    }
+  ]
+}
