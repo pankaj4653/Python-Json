@@ -34,6 +34,9 @@ for person in data['people']:
 for person in data['people']:
 	print(person)
 
-new_string = json.dumps(data)  # Dumps the Python Object in Json Sting Object
+
+new_string = json.dumps(data, indent=2, sort_keys=True)  # Dumps the Python Object in Json Sting Object
 print(new_string)
+
+
 
