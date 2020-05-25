@@ -27,3 +27,13 @@ for person in data['people']:
 	print(person['name'])
 
 
+for person in data['people']:
+	del person['phone']
+
+
+for person in data['people']:
+	print(person)
+
+new_string = json.dumps(data)  # Dumps the Python Object in Json Sting Object
+print(new_string)
+
